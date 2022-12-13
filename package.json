@@ -9,7 +9,7 @@
     "bootstrap": "^4.5.0",
     "css.gg": "^2.0.0",
     "elliptic": "^6.5.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "path": "^0.12.7",
     "react": "^16.13.1",
     "react-bootstrap": "^1.0.1",
